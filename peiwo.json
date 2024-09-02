@@ -16,6 +16,14 @@
             "decimals": 9,
             "name": "BABYPEI",
             "logoURI": "https://tronscan.org/static/media/logo_default_new.16f0fbc8bc08677dbc7c3ceaf350e4ce.svg"
+        },
+        {
+            "symbol": "SUNPEIWO",
+            "address": "TFhPPGLACFFHqcYsR99CeP5foBTCbgHCLE",
+            "chainId": 1,
+            "decimals": 18,
+            "name": "SunPeiwo",
+            "logoURI": "https://tronscan.org/static/media/logo_default_new.16f0fbc8bc08677dbc7c3ceaf350e4ce.svg"
         }
     ],
     "logoURI": "https://sun.io/favicon.ico",
